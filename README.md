@@ -1,6 +1,8 @@
 # vue-tutorial
 
 > A Vue.js project
+教程地址：https://gold.xitu.io/post/583d1fe00ce463006baca2fa
+手动完全实现了一下，可能还有后续
 
 ## Build Setup
 
